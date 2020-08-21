@@ -1,0 +1,7 @@
+Package: raylib
+Version: 3.0.0
+Architecture: x86-windows
+Multi-Arch: same
+Abi: 3e6a5db4c443355b94f6cfe0ce396bf403eddeb7
+Description: A simple and easy-to-use library to enjoy videogames programming
+Type: Port
